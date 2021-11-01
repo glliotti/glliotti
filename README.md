@@ -1,12 +1,13 @@
-### Olá eu sou o Gabriel Liotti 👋
+### Olá, eu sou o Gabriel Liotti! 👋
 
+- 🔭 Procurando Estagio como Dev
 - 🌱 Estudando Python e Cursando TADS na Universidade Uninove
-- 😄 Pronouns: ele
+- 😄 Focando em Python
 
 <div align="center">
   <a href="https://github.com/glliotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glliotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glliotti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=glliotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glliotti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
