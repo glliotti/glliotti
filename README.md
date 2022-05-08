@@ -1,8 +1,7 @@
 ### Olá, eu sou o Gabriel Liotti! 👋
 
 - 🔭 Procurando Estagio como Dev
-- 🌱 Estudando Python e Cursando TADS na Universidade Uninove
-- 😄 Focando em Python
+- 🌱 Estudando Python / JavaScrtipt / HTML / CSS e Cursando TADS na Universidade Uninove
 
 <div align="center">
   <a href="https://github.com/glliotti">
